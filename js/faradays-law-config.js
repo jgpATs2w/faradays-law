@@ -17,13 +17,11 @@ require.config( {
     text: '../../sherpa/text',
 
     // PhET libs, uppercase names to identify them in require.js imports
-    ASSERT: '../../assert/js',
     AXON: '../../axon/js',
     BRAND: '../../brand/js',
     DOT: '../../dot/js',
     JOIST: '../../joist/js',
     KITE: '../../kite/js',
-    NITROGLYCERIN: '../../nitroglycerin/js',
     PHETCOMMON: '../../phetcommon/js',
     PHET_CORE: '../../phet-core/js',
     SCENERY: '../../scenery/js',
