@@ -1,0 +1,3 @@
+11/28/14 grunt build --all-locales (but grunt build --locale es fail:
+Fatal error in ../deps/v8/src/mark-compact.cc, line 2935
+# CHECK(object_size <= Page::kMaxNonCodeHeapObjectSize) failed)
